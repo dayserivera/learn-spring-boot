@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.learn_spring_boot;
+package com.in28minutes.springboot.learnspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
